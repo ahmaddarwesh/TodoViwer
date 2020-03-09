@@ -1,4 +1,4 @@
-# todoViwer(Fetch Data from server)
+# TodoViwer(Fetch Data from server)
 
 ## In this project I will use:
 
